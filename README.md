@@ -3,7 +3,7 @@
 🎓 Estudante de Defesa Cibernética na FIAP  
 📍 São Paulo - SP  
 📧 rafac.bassi@gmail.com  
-🔗 [GitHub](https://github.com/RafaaBassi)
+🔗 Linkedln
 
 ---
 
@@ -47,7 +47,7 @@ Atualmente me aprofundando em:
 - Fundamentos de segurança ofensiva e defensiva  
 - Análise de vulnerabilidades e hardening  
 - Ferramentas de automação com Python para cibersegurança  
-- Cultura DevSecOps e boas práticas em ambientes corporativos
+- JavaScript
 
 ---
 
