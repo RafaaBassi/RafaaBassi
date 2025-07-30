@@ -13,24 +13,13 @@ Sou uma estudante apaixonada por *Cibersegurança*, com foco em desenvolver habi
 
 ---
 
-## 🎓 Formação
-
-*Tecnólogo em Defesa Cibernética*  
-FIAP – Av. Paulista  
-📅 Conclusão prevista: 1º semestre de 2026
-
----
-
 ## 🛠 Competências Técnicas
 
-- *Linux e Administração de Sistemas*  
-  - Red Hat System Administration I (RH124 - RHA)
-- *Programação e Scripts*  
-  - Python 3 (Curso em Vídeo)  
-  - Algoritmos: lógica de programação
-- *Web*  
-  - HTML5 e CSS3 (Curso em Vídeo)
-- *Produtividade e Documentação Técnica*  
+- *Linux e Administração de Sistemas*
+- Python 3 (Curso em Vídeo)  
+- HTML5 (Curso em Vídeo)
+- CSS3 (Curso em Vídeo)
+- Pacote Office:  
   - Word, Excel e PowerPoint 2016 (nível avançado – Fundação Bradesco)
 
 ---
