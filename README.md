@@ -15,13 +15,13 @@ Sou estudante de Defesa Cibernética, entusiasta da área de *Cibersegurança* e
 
 ## 🛠️ Competências Técnicas
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Logo Linux" width="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="Logo HTML5" width="50"/> 
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="Logo CSS3" width="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Logo Python" width="50"/>
+  <img src=" " alt="Logo Linux" width="50"/>
+  <img src="https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000" alt="Logo HTML5" width="50"/> 
+  <img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" alt="Logo CSS3" width="50"/>
+  <img src="https://img.icons8.com/?size=100&id=YX03OUiHE3rz&format=png&color=000000" alt="Logo Python" width="50"/>
   <img src="https://img.icons8.com/?size=100&id=FJCUJYTof2TA&format=png&color=000000" alt="Logo WORD" width="50"/>
-  <img src=" " alt="Logo EXCEL" width="50"/>
-  <img src=" " alt="Logo POWER POINT" width="50"/>
+  <img src="https://img.icons8.com/?size=100&id=kwi0rSegAaX3&format=png&color=000000" alt="Logo EXCEL" width="50"/>
+  <img src="https://img.icons8.com/?size=100&id=p1K2UPE2ufQk&format=png&color=000000" alt="Logo POWER POINT" width="50"/>
 </div>
 
 ---
