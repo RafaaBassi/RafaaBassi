@@ -15,7 +15,7 @@ Sou estudante de Defesa Cibernética, entusiasta da área de *Cibersegurança* e
 
 ## 🛠️ Competências Técnicas
 
-![Linux ](https://profilinator.rishav.dev/skills-assets/linux-original.svg)
+<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Logo Linux" width="80"/>
 - **Programação:** Python 3 (Curso em Vídeo), automações para segurança  
 - **Web:** HTML5 e CSS3 (Curso em Vídeo)  
 - **Pacote Office (Avançado):** Word, Excel e PowerPoint – Certificação Fundação Bradesco  
