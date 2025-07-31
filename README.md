@@ -18,6 +18,10 @@ Sou estudante de Defesa Cibernética, entusiasta da área de *Cibersegurança* e
   <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Logo Linux" width="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="Logo HTML5" width="50"/> 
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="Logo CSS3" width="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Logo Python" width="50"/>
+  <img src="https://img.icons8.com/?size=100&id=FJCUJYTof2TA&format=png&color=000000" alt="Logo WORD" width="50"/>
+  <img src=" " alt="Logo EXCEL" width="50"/>
+  <img src=" " alt="Logo POWER POINT" width="50"/>
 </div>
 
 ---
