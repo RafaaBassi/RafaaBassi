@@ -1,4 +1,4 @@
-# 👩‍💻 Rafaela Christine P. Bassi
+<img src="https://1drv.ms/f/c/1b93dd53b98f0a42/Epwrx5dmajhCkftFcFc_MmQBmorGKbdFda8IUaEDAOakug?e=nSCvma" alt="Banner"/>
 
 🎓 **Estudante de Defesa Cibernética | FIAP**  
 📍 São Paulo - SP  
