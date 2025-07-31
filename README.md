@@ -15,7 +15,7 @@ Sou estudante de Defesa Cibernética, entusiasta da área de *Cibersegurança* e
 
 ## 🛠️ Competências Técnicas
 <div align="center">
-  <img src=" " alt="Logo Linux" width="50"/>
+  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Logo Linux" width="50"/>
   <img src="https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000" alt="Logo HTML5" width="50"/> 
   <img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" alt="Logo CSS3" width="50"/>
   <img src="https://img.icons8.com/?size=100&id=YX03OUiHE3rz&format=png&color=000000" alt="Logo Python" width="50"/>
