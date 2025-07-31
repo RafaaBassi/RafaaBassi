@@ -1,58 +1,55 @@
-Passar para o código CSS e HTML# 👩‍💻 Rafaela Christine P. Bassi
+# 👩‍💻 Rafaela Christine P. Bassi
 
-
-🎓 Estudante de Defesa Cibernética na FIAP  
+🎓 **Estudante de Defesa Cibernética | FIAP**  
 📍 São Paulo - SP  
-📧 rafac.bassi@gmail.com  
-🔗 Linkedln
+📧 [rafac.bassi@gmail.com](mailto:rafac.bassi@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil-aqui)  
 
 ---
 
-## 💡 Sobre mim
+## 💡 Sobre Mim
 
-Sou uma estudante apaixonada por *Cibersegurança*, com foco em desenvolver habilidades técnicas para atuar na proteção de sistemas, redes e dados. Busco oportunidades para aplicar meus conhecimentos em ambientes reais e contribuir com soluções seguras, eficientes e inovadoras.
+Sou estudante de Defesa Cibernética, entusiasta da área de *Cibersegurança* e movida pela curiosidade em entender, proteger e fortalecer sistemas digitais. Tenho como objetivo aplicar meus conhecimentos técnicos em cenários reais, contribuindo para a construção de ambientes mais seguros, resilientes e eficientes. Busco oportunidades que impulsionem meu crescimento profissional e permitam colaborar em projetos de impacto.
 
 ---
 
-## 🛠 Competências Técnicas
+## 🛠️ Competências Técnicas
 
-- *Linux e Administração de Sistemas*
-- Python 3 (Curso em Vídeo)  
-- HTML5 (Curso em Vídeo)
-- CSS3 (Curso em Vídeo)
-- Pacote Office:  
-  - Word, Excel e PowerPoint 2016 (nível avançado – Fundação Bradesco)
+- **Sistemas Operacionais:** Linux (comandos básicos, administração, terminal)  
+- **Programação:** Python 3 (Curso em Vídeo), automações para segurança  
+- **Web:** HTML5 e CSS3 (Curso em Vídeo)  
+- **Pacote Office (Avançado):** Word, Excel e PowerPoint – Certificação Fundação Bradesco  
 
 ---
 
 ## 💼 Experiência Profissional
 
-*Santoli Saúde – 2023*  
-Assistente em Processos de Dados e Digitalização de Sistemas  
-- Organização e estruturação de dados empresariais com foco em integridade, consistência e acessibilidade.  
-- Apoio na digitalização de documentos e revisão de cadastros em sistemas internos.  
-- Contato inicial com manipulação de bancos de dados.
+**Santoli Saúde | 2023**  
+*Assistente em Processos de Dados e Digitalização de Sistemas*  
+- Organização e estruturação de dados empresariais, com foco em integridade, consistência e acessibilidade  
+- Apoio na digitalização de documentos e revisão de cadastros em sistemas internos  
+- Primeiros contatos com manipulação de bancos de dados  
 
 ---
 
 ## 🌐 Idiomas
 
-- *Inglês:* Básico a Intermediário (leitura técnica em segurança da informação)
+- **Inglês:** Básico a Intermediário – leitura técnica voltada para segurança da informação  
 
 ---
 
-## 🚀 Em constante aprendizado...
+## 📚 Em Constante Aprendizado
 
-Atualmente me aprofundando em:
+Atualmente focada em:
 
 - Fundamentos de segurança ofensiva e defensiva  
-- Análise de vulnerabilidades e hardening  
-- Ferramentas de automação com Python para cibersegurança  
-- JavaScript
+- Análise de vulnerabilidades e técnicas de *hardening*  
+- Automatização de tarefas com Python aplicadas à cibersegurança  
+- Introdução ao JavaScript  
 
 ---
 
-### 📬 Contato
+## 📬 Vamos Conversar?
 
-Se quiser conversar sobre oportunidades, projetos ou colaboração em cibersegurança, estou disponível!  
-📧 *rafac.bassi@gmail.com* 
+Estou aberta a oportunidades, projetos e colaborações na área de cibersegurança.  
+📧 [rafac.bassi@gmail.com](mailto:rafac.bassi@gmail.com)
