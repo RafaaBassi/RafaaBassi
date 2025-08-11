@@ -1,4 +1,4 @@
-![Olá, eu sou Rafaela](Olá, eu sou Rafaela.png)
+![Olá, eu sou Rafaela](ola.png)
 ---
 
 ## 💡 Sobre Mim
