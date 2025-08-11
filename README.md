@@ -1,4 +1,4 @@
-![Olá, eu sou Rafaela](assets/rafaela.png)
+![Olá, eu sou Rafaela](ola.png)
 ---
 
 ## 💡 Sobre Mim
