@@ -19,25 +19,7 @@ Sou estudante de Defesa Cibernética, entusiasta da área de *Cibersegurança* e
 </div>
 
 ---
-
-## 💼 Experiência Profissional
-
-**Santoli Saúde | 2023**  
-*Assistente em Processos de Dados e Digitalização de Sistemas*  
-- Organização e estruturação de dados empresariais, com foco em integridade, consistência e acessibilidade  
-- Apoio na digitalização de documentos e revisão de cadastros em sistemas internos  
-- Primeiros contatos com manipulação de bancos de dados  
-
----
-
-## 🌐 Idiomas
-
-- **Inglês:** Básico a Intermediário – leitura técnica voltada para segurança da informação  
-
----
-
 ## 📚 Em Constante Aprendizado
-
 Atualmente focada em:
 
 - Fundamentos de segurança ofensiva e defensiva  
