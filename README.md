@@ -1,9 +1,10 @@
 ![Olá, eu sou Rafaela](rafaela.png.png)
----
+## 📬 Entre em contato
 
+---
 ## 💡 Sobre Mim
 
-Sou estudante de Defesa Cibernética, entusiasta da área de *Cibersegurança* e movida pela curiosidade em entender, proteger e fortalecer sistemas digitais. Tenho como objetivo aplicar meus conhecimentos técnicos em cenários reais, contribuindo para a construção de ambientes mais seguros, resilientes e eficientes. Busco oportunidades que impulsionem meu crescimento profissional e permitam colaborar em projetos de impacto.
+Sou estudante de Defesa Cibernética, entusiasta da área e movida pela curiosidade em entender, proteger e fortalecer sistemas digitais. Tenho como objetivo aplicar meus conhecimentos técnicos em cenários reais, contribuindo para a construção de ambientes mais seguros, resilientes e eficientes. Busco oportunidades que impulsionem meu crescimento profissional e permitam colaborar em projetos de impacto.
 
 ---
 
@@ -27,9 +28,4 @@ Atualmente focada em:
 - Automatização de tarefas com Python aplicadas à cibersegurança  
 - Introdução ao JavaScript  
 
----
-
-## 📬 Vamos Conversar?
-
-Estou aberta a oportunidades, projetos e colaborações na área de cibersegurança.  
-📧 [rafac.bassi@gmail.com](mailto:rafac.bassi@gmail.com)
+--- 
